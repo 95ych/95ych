@@ -1,5 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Reinforcement Learning.
+- 👯 I’m looking to collaborate on game dev projects, playing ctfs.
+- 📫 How to reach me: + Discord : 95ych#0703
 
+                      
 <!--
 **95ych/95ych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

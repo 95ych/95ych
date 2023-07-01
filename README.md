@@ -5,7 +5,8 @@
    + Discord : 95ych#0703
    + cyksagar@pm.me
 
-                      
+- Activity:
+  ![activity](https://wakatime.com/share/@95ych/9aa78492-23d0-4d1d-857f-0728e7d808b0.png)            
 <!--
 **95ych/95ych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

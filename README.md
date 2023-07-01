@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Reinforcement Learning.
-- 👯 I’m looking to collaborate on computer-vision, game dev projects, playing ctfs.
+- 🌱 I’m currently learning Rust.
+- 👯 I’m looking to collaborate on rust or golang projects, game dev projects, playing ctfs.
 - 📫 How to reach me: 
    + Discord : 95ych#0703
    + cyksagar@pm.me
